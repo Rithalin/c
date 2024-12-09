@@ -1,0 +1,14 @@
+
+name: string_art_generator
+description: A Flutter project to generate string art patterns.
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/
